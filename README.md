@@ -1,13 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm David
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+  
+  - [Pracitce Conducting a security audit labs for Google Cybersecurity course]
 
-<!--
-**timelesstitan96/timelesstitan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Screenshot 2023-09-14 002905](https://github.com/timelesstitan96/timelesstitan96/assets/144980528/b72f11d9-afee-4541-9d75-691edde4c146)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
